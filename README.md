@@ -1,11 +1,11 @@
-# Front-end Projects from Roadmap.sh
+# Front-end Beginners Projects from Roadmap.sh
 
 Here you will see the projects I have worked on roadmap.sh. Grateful for the opportunity to have that learning career.
 
 
 ## Projects List
 
-[Basic HTML Website](https://roadmap.sh/projects/basic-html-website), 
+[Basic HTML Website](https://roadmap.sh/projects/single-page-cv), 
 
 If you click on the name of the project it will redirect you to the code of the repository
 
